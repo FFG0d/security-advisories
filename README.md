@@ -8,7 +8,7 @@ reproduction, and the current upstream status.
 
 | CVE ID | Affected product | Weakness | Upstream status | Advisory |
 |---|---|---|---|---|
-| CVE-2026-95179 | `com.airbnb.android:lottie` (lottie-android) | CWE-674 Uncontrolled Recursion | no fix released | [CVE-2026-95179.md](advisories/CVE-2026-95179.md) |
+| CVE-2026-95179 | `com.airbnb.android:lottie` (lottie-android) | CWE-674 Uncontrolled Recursion | fix proposed upstream, PR open | [CVE-2026-95179.md](advisories/CVE-2026-95179.md) |
 | CVE-2026-95180 | `com.github.Justson.AgentWeb:agentweb-core` | Incorrect Access Control | fixed in v5.1.7-androidx | [CVE-2026-95180.md](advisories/CVE-2026-95180.md) |
 
 ## CVE IDs
